@@ -5,7 +5,7 @@ DispGraph
 Repeat Ans=45
 For(A,0,9)
 BackgroundOn A
-Wait 0.2   
+Wait 0.0  
 End
 getKey
 End
